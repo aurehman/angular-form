@@ -1,0 +1,9 @@
+.animate-show {
+  -moz-transition:all linear 1s;
+  -o-transition:all linear 1s;
+  transition:all linear 1s;
+  display:block!important;
+  -webkit-transition:all linear 1s;
+  transition:all linear 1s;
+  opacity:1;
+}
